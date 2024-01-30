@@ -7,6 +7,7 @@
 <p> 🌱 I’m currently learning Node.js, take a look at my progress on https://github.com/sashascode/ecommerce-api </p>
 <p> ⭐ I’m 22 years old </p> 
 <p> ❤️ I love working with React, but I can easily adapt to any language or framework </p> 
+<p> 💡 Fun fact: I studied 3 years of computer engineering at UNL while learning modern technologies on my own. Today I continue to learn new technologies and best practices while working with a great development team!</p>
 
 <h2 align="center">🚀 My Skills</h2>
 
