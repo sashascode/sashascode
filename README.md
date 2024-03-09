@@ -8,6 +8,7 @@
 <p> ⭐ I’m 22 years old </p> 
 <p> ❤️ I love working with React, but I can easily adapt to any language or framework </p> 
 <p> 💡 I studied 2 years of computer engineering at UNL while learning modern technologies on my own. Today I continue to learn new technologies and best practices while working with a great development team!</p>
+<p> 🧘‍♂️ Outside of work, I enjoy practicing Ashtanga yoga to stay balanced and centered. </p>
 
 <h2 align="center">🚀 My Skills</h2>
 
