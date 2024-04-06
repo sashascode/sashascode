@@ -3,7 +3,7 @@
 <p align="center">📍 Santa Fe, Argentina</p>
 
 <h3>About me:</h3>
-<p> 🔭 I’m currently working at Q4Tech Argentina as a Full-stack Developer </p>
+<p> 🔭 I’m currently working at Mercado Libre as a Software Developer </p>
 <p> 🌱 I’m currently learning Node.js, take a look at my progress on https://github.com/sashascode/ecommerce-api </p>
 <p> ⭐ I’m 22 years old </p> 
 <p> ❤️ I love working with React, but I can easily adapt to any language or framework </p> 
